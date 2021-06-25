@@ -1,4 +1,6 @@
 # Pass-Encoder
+![CLI example](https://i.imgur.com/t2J07ju.png "CLI image")
+
 A CLI password manager that stores your encrypted passwords on a thumb drive - away from any internet access.
 
 ## Install
